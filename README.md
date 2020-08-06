@@ -21,7 +21,7 @@ About Personal Stuffs  🌟🌟🌟
 - 💬 Ask me about Anything I'm happy to help you.
 - 📫 You can ask this way nivitus@gmail.com
 - 😄 Wanna Messeage through 9994268967 Whatsapp
-- ⚡ I wanna be a part of making Google Self Car
+- ⚡ I wanna be a part of making Google Self Driving Car
 - 🎬 I love watching movies and I'm a big fan of Captain America 😍😍😍 🦸
   
 ### Interact With
