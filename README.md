@@ -47,3 +47,13 @@ About Personal Stuffs  🌟🌟🌟
 ### Follow me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nivitus-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivitus-fernandez-999a6815b/)](https://www.linkedin.com/in/nivitus-fernandez-999a6815b/) [![Instagram Badge](https://img.shields.io/badge/-Nivitus-e02c73?style=flat-circle&labelColor=e02c73&logo=Instagram&logoColor=white&link=https://www.instagram.com/nivitus_fernandez/?hl=en)](https://www.instagram.com/nivitus_fernandez/?hl=en) [![Twitter Badge](https://img.shields.io/badge/-Nivitus-1ca0f1?style=flat-circle&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/NivitusFdz)](https://twitter.com/NivitusFdz) [![GitHub Badge](https://img.shields.io/badge/-@Nivitus-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/Nivitus)](https://github.com/Nivitus) [![Gmail Badge](https://img.shields.io/badge/-Nivitus-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:nivitus@gmail.com)](mailto:nivitus@gmail.com)
+
+### Top repositories
+
+<p align="center">
+  
+<a href="https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis">
+  <img align="left" src=https://github-readme-stats.vercel.app/api/pin/?username=Nivitus&repo=Machine-Learning-Projects&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515%22%20/%3E />
+</a>
+
+</p>
