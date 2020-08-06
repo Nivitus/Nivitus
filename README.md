@@ -38,4 +38,7 @@ About Personal Stuffs  🌟🌟🌟
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
 
-
+### GitHub Stats (Public Contributions Only 😑)
+<p align="center">
+<a href="https://github.com/kishan0725"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nivitus&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Nivitus GitHub Stats"></a>
+</p> 
