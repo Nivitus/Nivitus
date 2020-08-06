@@ -13,7 +13,7 @@
 
 <em>
   
-About Personal Stuffs  
+About Personal Stuffs  🌟🌟🌟
   
 - 🔭 I’m a Student Final Year MCA Student in Loyola College
 - 🌱 I’m currently learning Data Science
@@ -22,7 +22,7 @@ About Personal Stuffs
 - 📫 You can ask this way nivitus@gmail.com
 - 😄 Wanna Messeage through 9994268967 Whatsapp
 - ⚡ I wanna be a part of making Google Self Car
-- 🎬 I love watching movies and I'm a big fan of Captain America 😄😄😄 🦸
+- 🎬 I love watching movies and I'm a big fan of Captain America 😍😍😍 🦸
   
 ### Interact With
 
@@ -36,5 +36,6 @@ About Personal Stuffs
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
 
 
