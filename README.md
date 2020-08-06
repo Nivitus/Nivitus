@@ -5,7 +5,7 @@
 
 <p>
   <em>
-     <b>Final Year MCA Student</b> <code><img src="https://img.icons8.com/color/48/000000/teenager-male.png"/></code> and a passionate about <b>Data Science and Artificial Intelligence</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Tuticorin, India.
+     <b>Final Year MCA Student</b> <code><img src="https://img.icons8.com/color/48/000000/teenager-male.png"/ width=20 height=20></code> and a passionate about <b>Data Science and Artificial Intelligence</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Tuticorin, India.
   </em>
  </p>
 
