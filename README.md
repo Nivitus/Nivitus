@@ -53,7 +53,7 @@ About Personal Stuffs  🌟🌟🌟
 <p align="center">
   
 <a href="https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis">
-  <img align="left" src=https://github-readme-stats.vercel.app/api/pin/?username=Nivitus&repo=Machine-Learning-Projects&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515%22%20/%3E" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nivitus&repo=Machine-Learning-Projects&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515%22%20/%3E" />
 </a>
 
 </p>
