@@ -5,7 +5,7 @@
 
 <p>
   <em>
-    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Madurai, India.
+    A <b>Final Year MCA Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate about <b>Data Science and Artificial Intelligence</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Tuticorin, India.
   </em>
  </p>
 
@@ -13,14 +13,16 @@
 
 <em>
   
-- 🔭 I’m currently working on ... Final Year MCA Student
-- 🌱 I’m currently learning ... Data Science
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... Getting Data Science internsship
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
+About Personal Stuffs  
+  
+- 🔭 I’m a Student Final Year MCA Student in Loyola College
+- 🌱 I’m currently learning Data Science
+- 🤔 I’m looking for help with Getting Data Science internsship 
+- 💬 Ask me about Anything I'm happy to help you.
+- 📫 You can ask this way nivitus@gmail.com
+- 😄 Wanna Messeage through 9994268967 Whatsapp
+- ⚡ I wanna be a part of making Google Self Car
+- 🎬 I love watching movies and I'm a big fan of Captain America 😄😄😄 🦸
   
 
 
