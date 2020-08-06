@@ -13,7 +13,7 @@
 
 <em>
   
-About Personal Stuffs  🌟🌟🌟
+### About Personal Stuffs  🌟🌟🌟
   
 - 🔭 I’m a Student Final Year MCA Student in Loyola College
 - 🌱 I’m currently learning Data Science
