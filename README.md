@@ -10,9 +10,8 @@
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 
-<code><img src="https://img.icons8.com/emoji/48/000000/fire.png"/></code> Passion On **Become a Data Scientist**
+<img src="https://img.icons8.com/emoji/48/000000/fire.png"/> Passion On **Become a Data Scientist**
 
 
 <code><img src="https://img.icons8.com/dusk/64/000000/python.png"/></code>
-<code>https://loading.io/icon/tedlac</code>
 
