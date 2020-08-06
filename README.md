@@ -12,4 +12,5 @@
 
 
 <code><img src="https://img.icons8.com/dusk/64/000000/python.png"/></code>
+<code>https://loading.io/icon/tedlac</code>
 
