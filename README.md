@@ -26,7 +26,7 @@
   
 ### Skills and Proficiencies
 
-<a href="https://manytools.org/http-html-text/image-to-data-uri/">Create data-URI from image - embed codes for HTML/CSS to improve loading speed (less HTTP requests) img align="right" alt="Coder GIF" height=250 width=350</a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZK751WX/b6090f30490291-56259dfd3bcd8.gif" alt="b6090f30490291-56259dfd3bcd8" border="0"></a>
 
 #### Programming Lanuages
 
