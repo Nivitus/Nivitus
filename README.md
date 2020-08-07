@@ -2,7 +2,7 @@
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/J2mnGfT/tenor.gif" alt="tenor" border="0" align="left" height="10%" width ="10%" border="0"></a> Passion On **Become a Data Scientist**
- alt="tenor" border="0"></a>
+
 <p>
   <em>
      <b>Final Year MCA Student</b> <code><img src="https://img.icons8.com/color/48/000000/teenager-male.png"/ width=20 height=20></code> and a passionate about <b>Data Science and Artificial Intelligence</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Tuticorin, India.
