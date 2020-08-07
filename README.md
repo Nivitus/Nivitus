@@ -15,7 +15,7 @@
   
 ### About Personal Stuffs  🌟🌟🌟
   
-- 🔭 I’m a Student Final Year **MCA** Student in **Loyola College**
+- 🔭 I’m a Student Final Year **MCA** Student in **[Loyola College]**(https://www.loyolacollege.edu/)
 - 🌱 I’m currently learning **Data Science**
 - 🤔 I’m looking for help with Getting **Data Science Internsship** 
 - 💬 Ask me about Anything I'm happy to help you.
