@@ -26,7 +26,7 @@
   
 ### Skills and Proficiencies
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/DVjhF0Y/Calm-Key-Eidolonhelvum-small.gif" align="right" alt="Calm-Key-Eidolonhelvum-small" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/DVjhF0Y/Calm-Key-Eidolonhelvum-small.gif" align="right" alt="Calm-Key-Eidolonhelvum-small height=250 width=350" border="0"></a>
 #### Programming Lanuages
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
