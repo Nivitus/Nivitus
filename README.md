@@ -26,6 +26,8 @@
   
 ### Skills and Proficiencies
 
+<img align="right" alt="Coder GIF" height=250 width=350 <iframe src='https://gfycat.com/ifr/CalmKeyEidolonhelvum' frameborder='0' scrolling='no' allowfullscreen width='640' height='454'></iframe><p> <a href="https://gfycat.com/calmkeyeidolonhelvum-artificial-intelligence-technology-solutions">via Gfycat</a></p>" />
+
 #### Programming Lanuages
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
