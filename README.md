@@ -26,7 +26,7 @@
   
 ### Skills and Proficiencies
 
-<img align="right" alt="Coder GIF" height=250 width=350 <iframe src='https://gfycat.com/ifr/CalmKeyEidolonhelvum' frameborder='0' scrolling='no' allowfullscreen width='640' height='454'></iframe><p> <a href="https://gfycat.com/calmkeyeidolonhelvum-artificial-intelligence-technology-solutions">via Gfycat</a></p>" />
+<a href="https://manytools.org/http-html-text/image-to-data-uri/">Create data-URI from image - embed codes for HTML/CSS to improve loading speed (less HTTP requests) img align="right" alt="Coder GIF" height=250 width=350</a>
 
 #### Programming Lanuages
 
