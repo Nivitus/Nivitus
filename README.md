@@ -78,4 +78,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nivitus&repo=Machine-Learning-Projects&title_color=#808080&icon_color=#808080&text_color=#808080&bg_color=#808080%22%20/%3E" />
 </a>
 
-</p>
+</p> 
