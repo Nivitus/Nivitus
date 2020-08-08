@@ -63,7 +63,7 @@
 ### GitHub Stats (Public Contributions 😄)
 
 <p align="left">
-<a href="https://github.com/kishan0725"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nivitus&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Nivitus GitHub Stats"></a>
+<a href="https://github.com/Nivitus"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nivitus&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Nivitus GitHub Stats"></a>
 </p> 
 
 ### Follow me
