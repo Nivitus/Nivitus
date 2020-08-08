@@ -74,7 +74,7 @@
 
 <p align="center">
   
-<a href="https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis">
+<a href="https://github.com/Nivitus/Machine-Learning-Projects">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nivitus&repo=Machine-Learning-Projects&title_color=#808080&icon_color=#808080&text_color=#808080&bg_color=#808080%22%20/%3E" />
 </a>
 
