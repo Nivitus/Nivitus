@@ -53,7 +53,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="sql"></code>
 
 <a href="https://medium.com/@Nivitus."><img src="https://i.ibb.co/rv4LnMF/112718-GIFs-Blog.gif" alt="112718-GIFs-Blog" align="right" height="70%" width ="70%" border="0"></a>
-<p> You Wanna Read My Blog align="right" </p>
+<h1 style="text-align:right;">You Wanna Read My Blogs</h1>
+
 #### Integrated Development Environments
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
 
