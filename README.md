@@ -52,7 +52,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="sql"></code>
 
-<a href="https://ibb.co/Gd3Cyyd"><img src="https://i.ibb.co/S67Vbb6/PcWZ.gif" alt="PcWZ" align="right" alt="b6090f30490291-56259dfd3bcd8" height="50%" width ="50%" border="0"></a>
+<a href="https://medium.com/@Nivitus." target="_blank"><img src="https://i.ibb.co/S67Vbb6/PcWZ.gif" alt="PcWZ" align="right" alt="b6090f30490291-56259dfd3bcd8" height="50%" width ="50%" border="0"></a>
 
 #### Integrated Development Environments
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
