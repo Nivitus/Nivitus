@@ -22,7 +22,7 @@
 - 📫 You can mail me through **nivitus@gmail.com**
 - 😄 Wanna Messeage through **9994268967 Whatsapp**
 - ⚡ I wanna be a part of making **Google Self Driving Car**
-- 🎬 I love watching movies and I'm a big fan of **Captain America** 😍😍😍 🦸
+- 🎬 I love watching movies and I'm a big fan of **Captain America** 😍😍😍 🦸 and Recent Blog Writter.😄😄😄
   
 ### Skills and Proficiencies
 
