@@ -17,7 +17,7 @@
   
 - 🔭 I’m a Student Final Year **MCA** Student in **Loyola College** 
 - 🌱 I’m currently learning **Data Science**
-- 🤔 I'm Working at AICE as a **Intern Candidate** 
+- 🤔 I Worked at AICE as a **Intern Candidate** 
 - 💬 Ask me about Anything I'm happy to help you.
 - 📫 You can mail me through **nivitus@gmail.com**
 - 😄 Wanna Messeage through **9994268967 Whatsapp**
