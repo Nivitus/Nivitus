@@ -1,7 +1,7 @@
 ## Hello Everyone, I'm [Nivitus](http://nivitus.herokuapp.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/Nivitus?style=social)
 
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/J2mnGfT/tenor.gif" alt="tenor" border="0" align="left" height="13%" width ="13%" border="0"></a> Passion On **Become a Data Scientist**
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/J2mnGfT/tenor.gif" alt="tenor" border="0" align="left" height="13%" width ="13%" border="0"></a> Passion On **Become a AI Engineer / Data Scientist**
 
 <p>
   <em>
