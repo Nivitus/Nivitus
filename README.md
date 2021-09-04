@@ -5,7 +5,7 @@
 
 <p>
   <em>
-     <b>Final Year MCA Student</b> <code><img src="https://img.icons8.com/color/48/000000/teenager-male.png"/ width=20 height=20></code> and a passionate about <b>Data Science and Artificial Intelligence</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Tuticorin, India.
+     <b>Seeking job in Machine Learning and Data Science </b> <code><img src="https://img.icons8.com/color/48/000000/teenager-male.png"/ width=20 height=20></code> and a passionate about <b>Data Science and Artificial Intelligence</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Tuticorin, India.
   </em>
  </p>
 
@@ -15,9 +15,9 @@
   
 ### About Personal Stuffs  🌟🌟🌟
   
-- 🔭 I’m a Student Final Year **MCA** Student in **Loyola College** 
-- 🌱 I’m currently learning **Data Science**
-- 🤔 I Worked at AICE as a **Intern Candidate** 
+- 🔭 Ex-Machine Learning Enginner Graduated **MCA** Alumini at **Loyola College** 
+- 🌱 I’m currently learning **Advance Machine Learning and AI**
+- 🤔 I Worked at Neosoft as a **Trainee ML Engineer** 
 - 💬 Ask me about Anything I'm happy to help you.
 - 📫 You can mail me through **nivitus@gmail.com**
 - 😄 Wanna Messeage through **9994268967 Whatsapp**
