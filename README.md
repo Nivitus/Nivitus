@@ -81,8 +81,8 @@
   
  <p align="right">
   
-<a href="https://github.com/Nivitus/My-Final-Year-Mini-Project-Car-Brand-Classification-using-CNN-">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nivitus&repo=My-Final-Year-Mini-Project-Car-Brand-Classification-using-CNN-&title_color=#808080&icon_color=#808080&text_color=#808080&bg_color=#808080%22%20/%3E" />
+<a href="https://github.com/Nivitus/My-Final-Year-Mini-Project">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Nivitus&repo=My-Final-Year-Mini-Project&title_color=#808080&icon_color=#808080&text_color=#808080&bg_color=#808080%22%20/%3E" />
 </a>
 
 </p> 
