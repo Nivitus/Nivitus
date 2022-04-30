@@ -15,7 +15,7 @@
   
 ### About Personal Stuffs  🌟🌟🌟
   
-- 🔭 Ex-Machine Learning Enginner Graduated **MCA** Alumini at **Loyola College** 
+- 🔭 AI Enginner Graduated **MCA** Alumini at **Loyola College** 
 - 🌱 I’m currently learning **Advance Machine Learning and AI**
 - 🤔 I Worked at Neosoft as a **Trainee ML Engineer** 
 - 💬 Ask me about Anything I'm happy to help you.
