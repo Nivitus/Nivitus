@@ -1,7 +1,6 @@
 # Hey! I'm Nivitus -  [Nivitus](http://nivitus.herokuapp.com/) 🔥
 
-[![Website](https://img.shields.io/website?label=kn1ghtf1re.github.io&style=for-the-badge&url=https%3A%2F%2Fkn1ghtf1re.github.io)](https://kn1ghtf1re.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kn1ghtf1re20?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkn1ghtf1re&screen_name=kn1ghtf1re20)
+[![Website](https://img.shields.io/website?label=Nivitus.github.io&style=for-the-badge&url=https%3A%2F%2FNivitus.github.io)](http://nivitus.herokuapp.com/)
 
 ## I love tinkering with the latest and greatest in technology! 🛠
 
