@@ -14,7 +14,7 @@
 
 ## Stats
 
-<img alt="kn1ghtf1re's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kn1ghtf1re&show_icons=true&hide_border=true&count_private=true?theme=dracula" />
+<img alt="Nivitus's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nivitus&show_icons=true&hide_border=true&count_private=true?theme=dracula" />
 
 ---
 
