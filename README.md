@@ -1,11 +1,12 @@
-# Hey! I'm Nivitus -  [Nivitus](http://nivitus.herokuapp.com/) 🔥
+## 👋 &nbsp;Hey there! I'm Nivitus
 
-[![Website](https://img.shields.io/website?label=Nivitus.github.io&style=for-the-badge&url=https%3A%2F%2FNivitus.github.io)](http://nivitus.herokuapp.com/)
+### 👨🏻‍💻 &nbsp;About Me
 
-## I love tinkering with the latest and greatest in technology! 🛠
-
-- 🌱 Currently honing my skills in Artificial Intelligence/Deep Learning/Computer Vision! 💪🏼
-- 👯 Open to collaborate
+💻 &nbsp;AI Engineer at SparkCognition. 🛠 \
+🎓 &nbsp;Completed my Master of Computer Applications in 2021.\
+🌱 &nbsp;Working in the field of Deep learning 💪 and Computer vision.\
+💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion.
+👯 Open to collaborate
 
 ## Connect with me
 
