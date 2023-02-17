@@ -13,7 +13,7 @@
 <h2 align="center"><b> Connect with me 🤝 </b></h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nivitus-fernandez-999a6815b/>
+  <a href="https://www.linkedin.com/in/nivitus-fernandez-999a6815b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://akash-james.medium.com/">
