@@ -16,17 +16,17 @@
   <a href="https://www.linkedin.com/in/nivitus-fernandez-999a6815b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://akash-james.medium.com/">
+  <a href="https://medium.com/@Nivitus./">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href="https://www.twitter.com/kn1ghtf1re20">
+  <a href="https://twitter.com/NivitusFdz">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://instagram.com/kn1ght_f1re">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.hackerrank.com/Kn1ghtF1re">
+  <a href="https://www.hackerrank.com/nivitus_ai">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  <a href="https://codeforces.com/profile/DeepStranger">
+    <img src="  https://codeforces.com/predownloaded/5e/5e/5e5e221acc2f4f146c6ba3b92d217d7614288bf2.svg">
   </a>
 </p>
 
