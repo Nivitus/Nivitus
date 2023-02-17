@@ -10,6 +10,26 @@
 💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion. \
 👯 Open to collaborate
 
+<h2 align="center"><b> Connect with me 🤝 </b></h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nivitus-fernandez-999a6815b/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://akash-james.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://www.twitter.com/kn1ghtf1re20">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://instagram.com/kn1ght_f1re">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/Kn1ghtF1re">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+</p>
+
 ### Programming Languages
 
 [<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />]()
