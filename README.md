@@ -6,7 +6,8 @@
 
 💻 &nbsp;AI Engineer at SparkCognition. 🛠 \
 🎓 &nbsp;Completed my Master of Computer Applications in 2021.\
-🌱 &nbsp;Working in the field of Deep learning 💪 and Computer vision.\
+🌱 &nbsp;Working in the field of Applied Deep learning 💪 and Computer vision.\
+🤖 Enthusiast in Self Driving Cars and Robotics. \
 💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion. \
 👯 Open to collaborate
 
