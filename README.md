@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
   <a href="https://codeforces.com/profile/DeepStranger">
-    <img src="  https://codeforces.com/predownloaded/5e/5e/5e5e221acc2f4f146c6ba3b92d217d7614288bf2.svg">
+    <img src="https://codeforces.com/predownloaded/5e/5e/5e5e221acc2f4f146c6ba3b92d217d7614288bf2.svg">
   </a>
 </p>
 
