@@ -56,17 +56,10 @@
 [<img alt="Numpy" img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />]()
 [<img alt="Ffmpeg" src="https://img.shields.io/badge/FFMPEG-007808?&style=for-the-badge&logo=ffmpeg&logoColor=white" />]()
 
-
-        
 ### Preferred Dev Environment
 
 [<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />]()
 [<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />]()
-
-## Connect with me
-
-[<img alt="Nivitus | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nivitus-fernandez-999a6815b/)
-[<img alt="Nivitus | Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@Nivitus.)
 
 
 
