@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Nivitus
 
-![Semantic description of image](./code_1.png)
+![Just Do](code_1.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
