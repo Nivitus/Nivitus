@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Nivitus
 
-![Just Do](code_1.png)
+![Just Do](https://github.com/Nivitus/Nivitus/tree/master/img/code_1.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
