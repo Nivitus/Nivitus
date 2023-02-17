@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Nivitus
 
-![Just Do](https://github.com/Nivitus/Nivitus/blob/master/img/code_2.gif)
+![Just Do](https://github.com/Nivitus/Nivitus/blob/master/img/GF-Bildverarbeitung-Buehne.jpg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
