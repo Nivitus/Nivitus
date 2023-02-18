@@ -64,7 +64,7 @@
 
 [<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />]()
 [<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />]()
-[<img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-f5f5f5?style=for-the-badge&logo=Jupyter&logoColor=green" />]()
+[<img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-8fbc8f?style=for-the-badge&logo=Jupyter&logoColor=darkgreen" />]()
 
 <br>
 
