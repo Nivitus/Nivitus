@@ -72,7 +72,7 @@
 
 ### 📕 &nbsp;Medium Articles
 <ul>
-  <li><a target="_blank" href="https://medium.com/@Nivitus./object-detection-series-2a36018385ac">Object Detection Series -- Computer Vision</a></li>
+  <li><a href="https://medium.com/@Nivitus./object-detection-series-2a36018385ac" target="_blank" >Object Detection Series -- Computer Vision</a></li>
   <li><a href="https://medium.com/@Nivitus./introduction-to-neural-networks-in-deep-learning-9fd21cf2d7a3">Introduction to Neural Networks in Deep     Learning</a></li>
   <li><a href="https://chatbotslife.com/every-thing-you-need-to-know-about-chatbots-43b4a2f1670c">Every Thing You Need to Know About Chatbots </a></li>
   <li><a href="https://medium.com/analytics-vidhya/boston-house-price-prediction-using-machine-learning-ad3750a866cd">Boston House Price Prediction Using Machine Learning
