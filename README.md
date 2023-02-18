@@ -8,7 +8,7 @@
 🎓 &nbsp;Completed my Master of Computer Applications in 2021.\
 🌱 &nbsp;Working in the field of Applied Deep learning 💪 and Computer vision.\
 🔥 Enthusiast in Self Driving Cars 🚘 and Robotics 🤖. \
-📚 Currently Learning Applied C++
+📚 Currently Learning Applied C++. \
 💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion. \
 👯 Open to collaborate
 
