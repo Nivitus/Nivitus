@@ -66,7 +66,7 @@
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/Nivitus/Nivitus/blob/master/img/me_1.gif" width="280px"/>
+<img align="right" alt="GIF" src="https://github.com/Nivitus/Nivitus/blob/master/img/me_1.gif" width="400px"/>
 
 ### 📕 &nbsp;Medium Articles
 <ul>
