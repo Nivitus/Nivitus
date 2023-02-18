@@ -64,5 +64,13 @@
 [<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />]()
 [<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />]()
 
+<br>
 
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="left">
+<a href="https://github.com/Nivitus">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nivitus&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nivitus&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
