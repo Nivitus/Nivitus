@@ -86,6 +86,8 @@
 <a href="https://github.com/Nivitus">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nivitus&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nivitus&layout=compact&langs_count=8&theme=react"/>
+<p align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nivitus&hide_border=true" />
 </a>
+</p>
 </p>
