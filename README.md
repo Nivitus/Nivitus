@@ -1,8 +1,8 @@
 ## 👋 &nbsp;Hey! I'm Nivitus
 
-<img align="right" alt="GIF" src="https://github.com/Nivitus/Nivitus/blob/master/img/code_2.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/Nivitus/Nivitus/blob/master/img/code_2.gif" width="560px"/>
 
-## 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 💻 &nbsp;AI Engineer at SparkCognition. 🛠 \
 🎓 &nbsp;Completed my Master of Computer Applications in 2021.\
