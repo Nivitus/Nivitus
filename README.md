@@ -52,7 +52,6 @@
 [<img alt="DeepStream" src="https://img.shields.io/badge/DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
 [<img alt="Jetson" src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
 
-
 ### Production Stack
 
 [<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />]()
@@ -65,6 +64,7 @@
 
 [<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />]()
 [<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />]()
+[<img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-f5f5f5?style=for-the-badge&logo=Jupyter&logoColor=green" />]()
 
 <br>
 
