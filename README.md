@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey! I'm Nivitus
 
-<img align="right" alt="GIF" src="https://github.com/Nivitus/Nivitus/blob/master/img/6.gif" width="350px"/>
+<img align="right" alt="GIF" src="https://github.com/Nivitus/Nivitus/blob/master/img/6.gif" width="320px"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
