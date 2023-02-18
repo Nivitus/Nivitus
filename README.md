@@ -2,7 +2,7 @@
 
 ![Just Do](https://github.com/Nivitus/Nivitus/blob/master/img/code_2.gif)
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💻 &nbsp;AI Engineer at SparkCognition. 🛠 \
 🎓 &nbsp;Completed my Master of Computer Applications in 2021.\
