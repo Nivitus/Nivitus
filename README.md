@@ -70,21 +70,11 @@
 
 ### 📕 &nbsp;Medium Articles
 <ul>
-  <li><a href="https://sahilchachra.medium.com/comparative-study-using-efficientnetb0-to-efficientnetb7-as-encoder-in-unet-a73ec6aeffe8">Comparative study — Using EfficientNetB0 to EfficientNetB7 as encoder in UNet</a></li>
-  <li><a href="https://sahilchachra.medium.com/vanilla-unet-vs-unet-with-efficientnetb0-as-encoder-55495edd2ceb">Vanilla UNet vs UNet with EfficientNetB0 as Encoder</a></li>
-   <li><a href="https://sahilchachra.medium.com/setting-up-nvidias-jetson-nano-from-jetpack-to-yolov5-60a004bf48bc">Setting up Nvidia’s Jetson Nano : From Jetpack to YoloV5</a></li>
-  <li><a href="https://sahilchachra.medium.com/run-yolov5s-with-tensorrt-and-deepstream-on-nvidia-jetson-nano-8c888a2f0eae">Run YoloV5s with TensorRT and DeepStream on Nvidia Jetson Nano
+  <li><a href="https://medium.com/@Nivitus./object-detection-series-2a36018385ac">Object Detection Series -- Computer Vision</a></li>
+  <li><a href="https://medium.com/@Nivitus./introduction-to-neural-networks-in-deep-learning-9fd21cf2d7a3">Introduction to Neural Networks in Deep     Learning</a></li>
+  <li><a href="https://chatbotslife.com/every-thing-you-need-to-know-about-chatbots-43b4a2f1670c">Every Thing You Need to Know About Chatbots </a></li>
+  <li><a href="https://medium.com/analytics-vidhya/boston-house-price-prediction-using-machine-learning-ad3750a866cd">Boston House Price Prediction Using Machine Learning
 </a></li>
-   <li><a href="https://sahilchachra.medium.com/paper-summary-decoupled-weight-decay-regularization-1583cbc855bd">Paper summary — Decoupled Weight Decay Regularization</a></li>
-   <li><a href="https://sahilchachra.medium.com/paper-summary-what-is-being-transferred-in-transfer-learning-250dc7a9d127">Paper Summary — What is being transferred in transfer learning?</a></li>
-  <li><a href="https://sahilchachra.medium.com/paper-summary-torch-manual-seed-3407-is-all-you-need-9ef0f7aa7d78">Paper Summary — torch.manual_seed(3407) is all you need</a></li>
-  <li><a href="https://sahilchachra.medium.com/paper-summary-metaformer-is-actually-what-you-need-for-vision-b6f172482604">Paper Summary — MetaFormer is Actually What You Need for Vision</a></li>
-   <li><a href="https://sahilchachra.medium.com/dive-into-basics-of-gpu-cuda-accelerated-programming-using-numba-in-python-a0be21aa00b7">Dive into basics of GPU, CUDA & Accelerated programming using Numba in Python</a></li>
-  <li><a href="https://sahilchachra.medium.com/video-analytics-dashboard-for-yolov5-and-deepsort-c5994461cb44">Video Analytics Dashboard for YoloV5 and DeepSort</a></li>
-  <li><a href="https://sahilchachra.medium.com/intel-openvino-in-brief-14a6905f5593">Intel OpenVINO in brief</a></li>
-  <li><a href="https://sahilchachra.medium.com/all-you-want-to-get-started-with-gstreamer-in-python-2276d9ed548e">All you want, to get started with GStreamer in Python
-</a></li>
-<li><a href="https://medium.com/mlearning-ai/paper-summary-searching-for-trionet-6ec2d3b56593">Paper Summary — Searching for TrioNet</a></li>
 </ul>
 <br>
 
