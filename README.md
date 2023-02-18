@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Nivitus
+## 👋 &nbsp;Hey! I'm Nivitus
 
 ![Just Do](https://github.com/Nivitus/Nivitus/blob/master/img/code_2.gif)
 
