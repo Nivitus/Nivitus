@@ -9,7 +9,8 @@
 🌱 &nbsp;Working in the field of Applied Deep learning 💪 and Computer vision.\
 🔥 Enthusiast in Self Driving Cars 🚘 and Robotics 🤖. \
 📚 Currently Learning Applied C++ in AI. \
-💬 &nbsp;Feel free to reach out to me for projects, or just for some interesting discussion. \
+💬 &nbsp;Feel free to reach out to me for projects. \
+🤔 Just for some interesting discussion. \
 👯 Open to Collaborate | Happy to Help You 😊
 
 <br>
