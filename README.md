@@ -66,7 +66,8 @@
 
 <br>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/Mz4w1B-by-oAAAAi/reading-read.gif" width="330px"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/Mz4w1B-by-oAAAAi/reading-read.gif" width="250px"/>
+<br>
 ### 📕 &nbsp;Medium Articles
 <ul>
   <li><a href="https://sahilchachra.medium.com/comparative-study-using-efficientnetb0-to-efficientnetb7-as-encoder-in-unet-a73ec6aeffe8">Comparative study — Using EfficientNetB0 to EfficientNetB7 as encoder in UNet</a></li>
