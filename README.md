@@ -47,6 +47,7 @@
 [<img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />]()
 [<img alt="Scikitlearn" src="https://img.shields.io/badge/-Scikitlearn-FFea00?style=for-the-badge&logo=Scikitlearn&logoColor=blue" />]()
 [<img alt="Pandas" src="https://img.shields.io/badge/Pandas-00008b?style=for-the-badge&logo=Pandas&logoColor=white" />]()
+[<img alt="Numpy" img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />]()
 [<img alt="Onnx" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />]()
 [<img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
 [<img alt="TensorRT" src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />]()
@@ -58,7 +59,6 @@
 [<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />]()
 [<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />]()
 [<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />]()
-[<img alt="Numpy" img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />]()
 [<img alt="Ffmpeg" src="https://img.shields.io/badge/FFMPEG-007808?&style=for-the-badge&logo=ffmpeg&logoColor=white" />]()
 
 ### Preferred Dev Environment
