@@ -11,7 +11,7 @@
 📚 Currently Learning Applied C++ in AI. \
 💬 &nbsp;Feel free to reach out to me for projects. \
 🤔 Just ping me for some interesting discussion. \
-👯 Open to Collaborate | Happy to Help You 😊
+👯 Open to Collaborate | Happy to Help You. 😊
 
 <br>
 <h2 align="left"><b> Connect with me 🤝 </b></h2>
