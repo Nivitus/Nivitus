@@ -26,8 +26,8 @@
   <a href="https://twitter.com/NivitusFdz">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/nivitus_ai">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  <a href="https://leetcode.com/u/Blue_Shark/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
   </a>
   <a href="https://codeforces.com/profile/DeepStranger">
     <img src="https://img.shields.io/badge/-Codeforces-FF0000?style=for-the-badge&logo=CodeForces&logoColor=white">
