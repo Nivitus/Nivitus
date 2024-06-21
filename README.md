@@ -23,9 +23,6 @@
   <a href="https://medium.com/@Nivitus./">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href="https://twitter.com/NivitusFdz">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
   <a href="https://leetcode.com/u/Blue_Shark/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
   </a>
