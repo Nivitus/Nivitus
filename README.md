@@ -63,6 +63,7 @@
 [<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />]()
 [<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />]()
 [<img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-8fbc8f?style=for-the-badge&logo=Jupyter&logoColor=darkgreen" />]()
+[<img alt="ROG Zephyrus" src="https://img.shields.io/badge/ROG-G531GT-eeeeee?style=for-the-badge&logo=asus&logoColor=white" />]()
 
 <br>
 
